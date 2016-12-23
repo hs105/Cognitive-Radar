@@ -38,7 +38,9 @@ This is a list of references for cognitive radar research.
 
 * [Cognitive Random Stepped Frequency Radar with Sparse Recovery] (https://arxiv.org/pdf/1308.0400.pdf)
 
+* [RELIABILITY PROBLEMS AND PARETO-OPTIMALITY IN COGNITIVE RADAR] (http://msol.people.uic.edu/papers/radar_reliability.pdf)
 
+* [Target Tracking in Multipath] (http://www.ese.wustl.edu/~nehorai/MURI/publications/Phani_WDD.pdf)
 
 ## Automotive Radar
 Most are 77GHZ Radar. 

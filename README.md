@@ -22,7 +22,7 @@ Most are 77GHZ Radar.
 
 * [SoCs](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/wp/wp-01183-automotive-radar-socfpga.pdf)
 
-* [Automotive Radar – Status and Trends ]https://pdfs.semanticscholar.org/eced/be515c77be3922f35623a0b0cf15d6f382a5.pdf
+* [Automotive Radar – Status and Trends](https://pdfs.semanticscholar.org/eced/be515c77be3922f35623a0b0cf15d6f382a5.pdf)
 
 * [Pedestrian recognition using automotive radar sensors](http://www.adv-radio-sci.net/10/45/2012/ars-10-45-2012.pdf)
 

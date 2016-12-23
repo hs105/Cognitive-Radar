@@ -42,6 +42,8 @@ This is a list of references for cognitive radar research.
 
 * [Target Tracking in Multipath] (http://www.ese.wustl.edu/~nehorai/MURI/publications/Phani_WDD.pdf)
 
+* [Q-Learning-Based Adaptive Waveform Selection] (http://file.scirp.org/pdf/IJCNS20090700013_20833988.pdf)
+
 ## Automotive Radar
 Most are 77GHZ Radar. 
 

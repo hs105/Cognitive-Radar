@@ -14,7 +14,13 @@ This is a list of references for cognitive radar research.
 
 * [Haykin Control theoretic approach to tracking radar: First step towards cognition](https://pdfs.semanticscholar.org/3995/9bc480d2972d8bb925708e6e8ad59664bcdb.pdf)
 
+* [Optimal Waveform Design For Cognitive Radar](https://pdfs.semanticscholar.org/5800/9725e390b1a0317a64e291f01b9eb71a4bee.pdf)
+
+* [Ambiguity Function Shaping for Cognitive Radar Via Complex Quartic Optimization] (https://pdfs.semanticscholar.org/7f01/26bd5001f74d71289c5cf82fc57122cb534f.pdf)
+
 * [Reinforcement Learning-based Cooperative Sensing in Cognitive Radio Ad Hoc Networks] (http://bwn.ece.gatech.edu/papers/2010/c7.pdf)
+
+* [Cognitive Radar for Signal Processing] (http://meeting.xidian.edu.cn/workshop/miis2014/uploads/files/July-7th-1400pm_Antonio%20De%20Maio_Cognitive%20Radar%20signal%20processing.pdf)
 
 * [24GHZ radar for pedestrian recognition](http://cdn.intechopen.com/pdfs/43651.pdf). 50m range and 120 azimuth angle. 
 
@@ -29,6 +35,10 @@ This is a list of references for cognitive radar research.
 * [some Israle demo](https://www.youtube.com/watch?v=-knY1nReMBQ)
 
 * [Cognitive MIMO Radar](in.bgu.ac.il/en/engn/ece/radar/Site Assets/Pages/Presentations/Tabrikian_BGU_Radar_2016.pdf)
+
+* [Cognitive Random Stepped Frequency Radar with Sparse Recovery] (https://arxiv.org/pdf/1308.0400.pdf)
+
+
 
 ## Automotive Radar
 Most are 77GHZ Radar. 

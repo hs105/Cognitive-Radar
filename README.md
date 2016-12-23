@@ -3,11 +3,12 @@ This is a list of references for cognitive radar research.
 
 
 ## References
-*[Haykin talk](http://soma.mcmaster.ca/papers/SLIDES_NIPS_Keynote_Haykin.pdf)
 
-*[Haykin Cognitive Dynamic System](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6218166)
+* [Haykin talk](http://soma.mcmaster.ca/papers/SLIDES_NIPS_Keynote_Haykin.pdf)
 
-*[Haykin Control theoretic approach to tracking radar: First step towards cognition](https://pdfs.semanticscholar.org/3995/9bc480d2972d8bb925708e6e8ad59664bcdb.pdf)
+* [Haykin Cognitive Dynamic System](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6218166)
+
+* [Haykin Control theoretic approach to tracking radar: First step towards cognition](https://pdfs.semanticscholar.org/3995/9bc480d2972d8bb925708e6e8ad59664bcdb.pdf)
 
 * [24GHZ radar for pedestrian recognition](http://cdn.intechopen.com/pdfs/43651.pdf). 50m range and 120 azimuth angle. 
 

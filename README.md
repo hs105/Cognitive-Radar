@@ -15,4 +15,12 @@ looks all 42kHZ.
 SR04 is 40HZ. 
 
 
+http://www.ittc.ku.edu/~sdblunt/papers/IntlRadarconf15_clutter.pdf
+
+http://www.accipiterradar.com/media/pdf/CRIN-Whitepaper.pdf
+
+https://cuvillier.de/uploads/preview/public_file/9398/Leseprobe.pdf
+
+
+
 

@@ -1,4 +1,4 @@
-# cognitive-radar
+# Cognitive Radar
 This is a list of references for cognitive radar research. 
 
 

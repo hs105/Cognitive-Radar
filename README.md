@@ -8,7 +8,13 @@ This is a list of references for cognitive radar research.
 
 * [Haykin Cognitive Dynamic System](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6218166)
 
+* [A dynamic channel assignment policy through Q-learning] (https://www.researchgate.net/publication/3302704_A_dynamic_channel_assignment_policy_through_Q-learning)
+
+* [Performance of distributed multi-agent multi-state reinforcement spectrum management using different exploration scheme](http://www.etsmtl.ca/ETS/media/ImagesETS/Labo/LIVIA/Publications/2013/Ko_ESWA_2013.pdf)
+
 * [Haykin Control theoretic approach to tracking radar: First step towards cognition](https://pdfs.semanticscholar.org/3995/9bc480d2972d8bb925708e6e8ad59664bcdb.pdf)
+
+* [Reinforcement Learning-based Cooperative Sensing in Cognitive Radio Ad Hoc Networks] (http://bwn.ece.gatech.edu/papers/2010/c7.pdf)
 
 * [24GHZ radar for pedestrian recognition](http://cdn.intechopen.com/pdfs/43651.pdf). 50m range and 120 azimuth angle. 
 

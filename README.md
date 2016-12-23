@@ -35,3 +35,5 @@ ww2.ing.unipi.it/~a005981/Automotive radar chipset.pdf
 http://www.adv-radio-sci.net/10/45/2012/ars-10-45-2012.pdf
 
 http://www.eecg.toronto.edu/~sorinv/papers/ims_sean_07.pdf
+
+https://cdn.rohde-schwarz.com/pws/dl_downloads/dl_application/application_notes/1ef88/1EF88_0e_Automated_Measurements_of_77_GHz_FMCW_Radar~1.pdf

@@ -1,7 +1,5 @@
 # cognitive-radar
-
-
-
+This is a list of references for cognitive radar research. 
 
 
 ## References
@@ -17,7 +15,7 @@
 
 * [some Israle demo](https://www.youtube.com/watch?v=-knY1nReMBQ)
 
-* [Cognitive MIMO Radar] in.bgu.ac.il/en/engn/ece/radar/Site Assets/Pages/Presentations/Tabrikian_BGU_Radar_2016.pdf
+* [Cognitive MIMO Radar](in.bgu.ac.il/en/engn/ece/radar/Site Assets/Pages/Presentations/Tabrikian_BGU_Radar_2016.pdf)
 
 ## Automotive Radar
 Most are 77GHZ Radar. 
